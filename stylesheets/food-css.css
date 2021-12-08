@@ -1,4 +1,4 @@
-body, html {
+body {
     font-family: 'Raleway', sans-serif;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
@@ -157,6 +157,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     color: #fff;
 }
 .categories {
+    margin: 0 auto;
     padding-bottom: 30px;
     text-align: center;
 }
